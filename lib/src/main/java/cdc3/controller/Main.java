@@ -11,6 +11,7 @@ public class Main {
 		Coche c1 = new Coche(1, "Renault", "Clio", 3500, 2014);
 		Coche c2 = new Coche(2, "Ford", "Fiesta", 1700, 2010);
 		Coche c3 = new Coche(3, "Kia", "Ceed", 6900, 2018);
+		//Uvus: ivaherarr ivan herrero arribas
 		
 		JPACocheDao ventas = new JPACocheDao();
 		
